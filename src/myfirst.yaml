@@ -1,0 +1,41 @@
+name: Ebus
+age: 28
+address: "myway num1"
+
+active: true
+notact: false
+
+key:
+  key1: value1
+  key2: value2
+
+somjson: {key: value, key2: value}
+
+jobarray:
+  - item1
+  - item2
+  - item3
+
+jobarrayobj:
+  - item1
+  - item2
+  - {name: lars, age: 25}
+
+objectsArray2:
+  - key: value
+  - key2: 17
+
+objectArray3:
+  -key:value
+  key2:value
+  -key:value
+  key2:value
+
+longText: > 
+  hej mit navn er Ebus
+
+longText2: |
+  jeg er 25 år gammel
+  
+
+  
